@@ -1,4 +1,4 @@
-<animated-image data-catalyst><img align="center" src="https://i.imgur.com/1YlHMvm.gif" style="max-width: 100%; display: inline-block;"></img></animated-image>
+<div align="center"><animated-image data-catalyst><img align="center" src="https://i.imgur.com/1YlHMvm.gif" style="max-width: 100%; display: inline-block;"></img></animated-image></div>
 <h1 align="center">Hi there 👋, it's LightPride</h1>
 
 # 💫 About Me:
@@ -11,8 +11,7 @@
 
 ---
 <div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightPride&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=LightPride />
-  </div>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightPride&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=LightPride /></div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/LightPride">
