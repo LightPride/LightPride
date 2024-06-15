@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, it's LightPride</h1>
 
 # 💫 About Me:
-🔭 Eager for knowledge and success<br>🤝 More friends = more possibilities<br>🐱 Currently working on pet-projects<br>🎸 Doing music in free time
+🔭 Eager for knowledge and success<br>🤝 More friends = more possibilities<br>🐱 Currently working on pet-projects<br>🎸 Doing music in free time<br> 📨 Contact me: <a href="mailto:vlad.grinevich1@gmail.com">vlad.grinevich1@gmail.com</a>
 
 
 # 💻 Tech Stack:
