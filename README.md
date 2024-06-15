@@ -1,3 +1,4 @@
+<animated-image data-catalyst><img align="center" src="https://i.imgur.com/1YlHMvm.gif" style="max-width: 100%; display: inline-block;"></img></animated-image>
 <h1 align="center">Hi there 👋, it's LightPride</h1>
 
 # 💫 About Me:
